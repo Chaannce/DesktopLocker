@@ -1,0 +1,11 @@
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\bin\Debug\DesktopLocker.exe.config
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\bin\Debug\DesktopLocker.exe
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\bin\Debug\DesktopLocker.pdb
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.csproj.AssemblyReference.cache
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.Form1.resources
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.Properties.Resources.resources
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.csproj.GenerateResource.cache
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.csproj.CoreCompileInputs.cache
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.exe
+E:\Desktop\Projects\actual projects\DesktopLocker\DesktopLocker\obj\Debug\DesktopLocker.pdb
