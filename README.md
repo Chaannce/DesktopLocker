@@ -4,11 +4,8 @@ Please do not use this for malicious intent..
 
 # How To Use
 1: Go into the solution file (sln) and edit the form class.
-
 2: Edit the readonly string called "pass", edit this to whatever you want the password to be.
-
 3: Build the project.
-
 4: Tada!!!
 
 # Oh no, I forgot the password!
