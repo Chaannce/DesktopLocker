@@ -3,10 +3,10 @@ A little tool to practically disable random people peeping on your computer scre
 Please do not use this for malicious intent..
 
 # How To Use
-1: Go into the solution file (sln) and edit the form class.
-2: Edit the readonly string called "pass", edit this to whatever you want the password to be.
-3: Build the project.
-4: Tada!!!
+1: Go into the solution file (sln) and edit the form class.\n
+2: Edit the readonly string called "pass", edit this to whatever you want the password to be.\n
+3: Build the project.\n
+4: Tada!!!\n
 
 # Oh no, I forgot the password!
 Don't worry, if you ever run it and forget the password, you can always kill the process by restarting your PC (as long as it isn't on startup.)
