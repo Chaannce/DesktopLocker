@@ -31,10 +31,6 @@ namespace DesktopLocker
                 check = false;
                 Application.Exit();
             }
-            else
-            {
-                Application.Exit();
-            }
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
